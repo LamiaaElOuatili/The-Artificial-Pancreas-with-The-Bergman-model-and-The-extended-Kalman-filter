@@ -1,2 +1,3 @@
 # The-Artificial-Pancreas-with-The-Bergman-model-and-The-extended-Kalman-filter
 The project aimed to comprehensively analyze the components and functioning of the artificial pancreas, a vital device for managing diabetes. 
+To achieve this goal, I simulated the GLUCOSE-INSULIN DYNAMICS using the Bergman model with the Python programming language. Through the simulation, I was able to obtain insights into the strengths and limitations of the artificial pancreas. One key observation was that the device could benefit from improved accuracy and precision. To address this, I explored the use of the Extended Kalman filter to refine the artificial pancreas's performance.
